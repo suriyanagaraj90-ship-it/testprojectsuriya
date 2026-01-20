@@ -1,0 +1,2 @@
+[11-Jun-2019 03:41:40 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Validation\Rule' not found in /home/proplusvision/public_html/appolo/app/Rules/validCourseSyllabusMapEdit.php on line 8
+[11-Jun-2019 05:18:43 UTC] PHP Fatal error:  Interface 'Illuminate\Contracts\Validation\Rule' not found in /home/proplusvision/public_html/appolo/app/Rules/validCourseSyllabusMapEdit.php on line 8
